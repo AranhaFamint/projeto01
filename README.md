@@ -1,2 +1,2 @@
 # projeto01
-aprendendo git, na pratica
+aprendendo git na pratica
